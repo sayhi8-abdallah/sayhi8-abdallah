@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @sayhi8-abdallah
+- 👋 Hi, I’m @sayhi8-abdallah
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
